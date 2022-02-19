@@ -11,6 +11,8 @@ Implementation will be done only using arrays and the basic data types. Compilat
 
 ## Data structures
 - [ ] Stack
+  1. [X] Simple int stack
+  2. [ ] Dynamic type stack
 - [ ] Queue
 - [ ] Linked list
 - [ ] Doubly linked list
