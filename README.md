@@ -5,17 +5,24 @@ This repo is for implementing data structures and algorithms discussed in CSCI20
 Implementation will be done only using arrays and the basic data types. Compilation instructions will be inside each folder for each language.
 
 ## Languages used
-- [ ] C++
-- [ ] Java
-- [ ] Python
+_Other language versions to be implemented one after the other_
+- [ ] C++ {DS: 1/10, Sort: 0/7, Gr: 0/5}
+- [ ] ~Java~
+- [ ] ~Python~
 
 ## Data structures
 - [ ] Stack
-  1. [X] Simple int stack
-  2. [ ] Dynamic type stack
+  - [X] Simple int stack
+  - [ ] Dynamic type stack
 - [ ] Queue
+  - [ ] Simple int queue
+  - [ ] Dynamic type queue
 - [ ] Linked list
+  - [ ] Simple int list
+  - [ ] Dynamic type list
 - [ ] Doubly linked list
+  - [ ] Simple int DLL
+  - [ ] Dynamic type DLL
 - [ ] Binary tree
 - [ ] Basic Hash tables
 
